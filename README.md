@@ -1,2 +1,2 @@
 # datasciencecoursera
-Part of coursera final project requirement
+Part of coursera Data Science clas final project requirement
